@@ -1,0 +1,23 @@
+body {
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    color: pink;
+}
+
+.text_container {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    position: relative;
+    bottom: 180px;
+    color: red;
+}
+
+.button {
+    margin-bottom: 10px;
+    position: relative;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
+    bottom: 30px;
+}
