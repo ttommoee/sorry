@@ -5,7 +5,7 @@ body {
     color: pink;
 }
 
-.text_container {
+text_container {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: medium;
     position: relative;
@@ -13,7 +13,7 @@ body {
     color: red;
 }
 
-.button {
+button {
     margin-bottom: 10px;
     position: relative;
     color: white;
